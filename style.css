@@ -3,10 +3,11 @@
   margin: 200px auto;
   width: 400px;
   height: 400px;
-  animation: rotateMyImage 20s linear infinite;
+  animation: rotateMyImage 25s linear infinite;
 }
 body{
   background-color: aquamarine;
+  border-color: brown;
 }
 
 #course_logo img{
