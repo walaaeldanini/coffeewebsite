@@ -5,6 +5,9 @@
   height: 400px;
   animation: rotateMyImage 20s linear infinite;
 }
+body{
+  background-color: aquamarine;
+}
 
 #course_logo img{
   width: 100%;
